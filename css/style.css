@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+}
+.sh,.sh1 {
+  background-color: aquamarine;
+  width: 259px;
+  height: 158px;
+  padding-left: 35px;
+  text-align: justify;
+  border-top-left-radius: 50px;
+  float: left;
+  margin-right: 18px;
+}
+p {
+  margin-top: -27px;
+}
